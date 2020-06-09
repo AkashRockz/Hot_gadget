@@ -1,0 +1,33 @@
+.navbar{
+    background-color: white;
+}
+.container{
+    margin-bottom: 100px ;
+}
+.carousel-item{
+    padding: 20px 30px;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px grey;
+}
+.card-body{
+    text-align: center;
+}
+.buy-button{
+    border: none;
+    border-radius: 5px;
+    padding: 8px 15px;
+    background-color: black;
+    color: white;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+span{
+    text-decoration: underline;
+    text-decoration-color: rgb(218, 132, 51);
+  
+}
