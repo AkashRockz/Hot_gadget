@@ -7,6 +7,13 @@
 .carousel-item{
     padding: 20px 30px;
 }
+.carousel-indicators li {
+  
+    background-color: grey;
+  }
+  .carousel-indicators .active {
+    background-color: rgb(247, 178, 49);
+  }
 .card{
     border: none;
     border-radius: 15px;
